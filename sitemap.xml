@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://avantifellows.github.io/categories/</loc>
+    <loc>https://avantifellows.github.io/</loc>
+    <lastmod>2020-11-29T15:39:34+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://avantifellows.github.io/</loc>
+    <loc>https://avantifellows.github.io/posts/</loc>
+    <lastmod>2020-11-29T15:39:34+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://avantifellows.github.io/posts/my-first-post/</loc>
+    <lastmod>2020-11-29T15:39:34+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://avantifellows.github.io/categories/</loc>
   </url>
   
   <url>
