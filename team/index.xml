@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Plio</title>
-    <link>/</link>
-    <description>Recent content on Plio</description>
+    <title>Meet the Team on Plio</title>
+    <link>/team/</link>
+    <description>Recent content in Meet the Team on Plio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Akshay Saxena</title>
       <link>/team/akshay/</link>
@@ -41,42 +41,6 @@
       
       <guid>/team/vandana/</guid>
       <description>Vandana is the Executive Trustee at Avanti Fellows and leads all operations and fundraising strategy at Avanti Fellows. In addition to her work at Avanti, Vandana is a Board Member and former Chief Executive Officer of the Akanksha Foundation. Vandana has graduated from Claremont McKenna College with a degree in Economics.</description>
-    </item>
-    
-    <item>
-      <title>Why We Exist</title>
-      <link>/why-we-exist/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/why-we-exist/</guid>
-      <description>COVID-19 has changed our lives in ways that were not imaginable a year ago. Nearly 150 million children studying in government schools have been forced to abruptly transition to online learning during the lockdown. India ranks 72 out of 73 countries in terms of students&#39; math, science and reading abilities. The lockdown has only made this worse as online learning is not tailored to serve these students. We began Plio with the sole mission of using technology to improve learning outcomes for government-school children through (P) Personalized Learning (L) with Interactive (I) and Open (O) content.</description>
-    </item>
-    
-    <item>
-      <title>Why We Exist!</title>
-      <link>/posts/001-why-we-exist/</link>
-      <pubDate>Sun, 29 Nov 2020 15:39:34 +0530</pubDate>
-      
-      <guid>/posts/001-why-we-exist/</guid>
-      <description>COVID-19 has changed our lives in ways that were not imaginable a year ago. Nearly 150 million children studying in government schools have been forced to abruptly transition to online learning during the lockdown. India ranks 72 out of 73 countries in terms of students&#39; math, science and reading abilities. The lockdown has only made this worse as online learning is not tailored to serve these students. We began Plio with the sole mission of using technology to improve learning outcomes for government-school children through (P) Personalized Learning (L) with Interactive (I) and Open (O) content.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>/about/</link>
-      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Plio stands for: Personalized Learning through Interactive and Open Content</description>
-    </item>
-    
-    <item>
-      <title>What I&#39;m up to now</title>
-      <link>/now/</link>
-      <pubDate>Tue, 07 Feb 2017 04:09:20 +0000</pubDate>
-      
-      <guid>/now/</guid>
-      <description></description>
     </item>
     
   </channel>
